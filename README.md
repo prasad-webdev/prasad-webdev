@@ -1,99 +1,330 @@
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    PRASAD BAIRAGI — GITHUB                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:00F2FE,100:7928CA&height=220&section=header&text=Prasad%20Bairagi&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20GenAI%20%26%20Data%20Science&descAlignY=58&descSize=18&fontColor=ffffff&stroke=00f2fe&strokeWidth=1" width="100%" alt="Prasad Bairagi Banner"/>
+# 🌌 PRASAD BAIRAGI
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=2500&pause=800&color=00F2FE&center=true&vCenter=true&width=700&height=45&lines=Building+intelligent+applications;Exploring+Generative+AI+%26+LLMs;Architecting+RAG+%26+Vector+Pipelines;Learn.+Build.+Evolve." alt="Animated tagline"/>
+### `Full-Stack Developer` • `AI Enthusiast` • `Python Developer`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+AI-powered+applications+%F0%9F%A4%96;Creating+modern+web+experiences+%F0%9F%92%BB;Exploring+Generative+AI+%26+RAG+%F0%9F%A7%A0;Turning+ideas+into+real-world+products+%F0%9F%9A%80" />
 
 <br>
 
-<a href="https://prasadb-dev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-prasadb--dev.netlify.app-7928CA?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/prasad-bairagi-b20885368"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:prasadbairagi131@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/prasad-webdev"><img src="https://img.shields.io/badge/Status-Open_to_internships-00F2FE?style=for-the-badge&labelColor=050816" alt="Status"/></a>
+<a href="https://github.com/prasad-webdev">
+<img src="https://img.shields.io/badge/GitHub-prasad--webdev-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/prasad-bairagi-b20885368">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:prasadbairagi131@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=prasad-webdev&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" />
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+<div align="center">
 
-I'm **Prasad Bairagi**, a final-year **B.Sc. Computer Science** student (SPPU, Pune, Class of 2026) and a **GenAI & Data Science intern at Innomatics Research Labs**. I turn complex engineering problems into clean, resilient software — from full-stack architectures to production-grade RAG pipelines.
+## 🧑‍💻 `WHO AM I?`
 
-- 🔭 **Current Focus:** LLM applications, RAG pipelines, LangChain, vector retrieval with ChromaDB
-- 🌱 **Learning & Research:** Autonomous AI agents, system design, cloud scale, cybersecurity
-- 📍 **Based in:** Niphad / Pune, Maharashtra, India
-- 🗣️ **Languages:** English, Marathi
-- 💡 **Philosophy:** *"Code with logic. Create with imagination."*
+</div>
+
+```yaml
+name: Prasad Bairagi
+role: Full-Stack Developer
+education: B.Sc. Computer Science
+focus:
+  - Generative AI
+  - Full-Stack Development
+  - RAG & LLM Applications
+  - Python & Data Science
+  - SaaS Development
+
+currently_building:
+  - AI-powered applications
+  - Modern web platforms
+  - Developer tools
+
+mindset: "Build • Learn • Experiment • Improve"
+```
 
 ---
 
-### 🧰 Tech Stack Matrix
-
 <div align="center">
 
-**AI, GenAI & Data Science**<br>
-<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq"/>
-<img src="https://img.shields.io/badge/ChromaDB-7928CA?style=for-the-badge" alt="ChromaDB"/>
-<img src="https://img.shields.io/badge/Sentence_Transformers-0891B2?style=for-the-badge" alt="Sentence Transformers"/>
+## ⚡ TECH ARSENAL
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,php&theme=dark" />
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
+
+### ⚙️ Backend • AI • APIs
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
 <br><br>
 
-**Programming Languages**<br>
-<img src="https://skillicons.dev/icons?i=python,ts,js,java,php,c&theme=dark" alt="Python, TypeScript, JavaScript, Java, PHP, C"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge"/>
 
-<br><br>
+### 🗄️ Database • Cloud • Tools
 
-**Frontend & Full-Stack**<br>
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,nodejs,express&theme=dark" alt="React, Tailwind, HTML, CSS, Node.js, Express"/>
-
-<br><br>
-
-**Databases & DevOps Tools**<br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,git,github,linux,postman,vscode&theme=dark" alt="Postgres, MySQL, Firebase, Git, GitHub, Linux, Postman, VS Code"/>
+<img src="https://skillicons.dev/icons?i=firebase,mysql,postgres,git,github,vscode,linux,postman&theme=dark" />
 
 </div>
 
 ---
 
-### 🚀 Featured Engineering Projects
+# 🚀 FEATURED PROJECTS
 
-| Project | Domain | Architecture & Highlights | Tech Stack |
-|---|---|---|---|
-| 🤖 **BizMitra** | GenAI Local Retail | AI-assisted digital manager: mobile storefronts, smart bilingual catalogs, WhatsApp CRM marketing | React 19, TypeScript, Node.js, Firebase, Gemini AI |
-| 🧠 **RAG Engine** | Retrieval & Vectors | Grounded enterprise document Q&A: semantic recursive chunking, ChromaDB vector search, sub-450ms Groq LLaMA inference | Python, LangChain, ChromaDB, Groq LPU, LLaMA 3 |
-| 📰 **Dynamic News Portal** | Full-Stack Publishing | Production publishing engine with editorial dashboards, full-text MySQL search, and responsive views | PHP 8, MySQL, HTML5, CSS3, JavaScript |
-| 💻 **Portfolio Hub** | Web Architecture | Accessible, sub-second edge portfolio with interactive system simulators | JavaScript, React, Tailwind CSS |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🤖 BizMitra
+
+### AI Digital Manager & Micro-SaaS
+
+An AI-powered platform designed to help local businesses build and manage their digital presence.
+
+**🔥 Features**
+
+- 🏪 Digital storefront generation
+- 📱 WhatsApp CRM
+- 📚 Digital catalogs
+- 🤖 AI customer chatbot
+- 📢 AI Marketing Studio
+- 🌐 Multilingual campaigns
+- 🔐 RBAC authentication
+- 💳 Subscription management
+
+**Stack**
+
+`React` `TypeScript` `Node.js`  
+`Express` `Firebase` `Gemini API` `Tailwind`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧠 RAG Customer Support
+
+### AI Knowledge Assistant
+
+An end-to-end Retrieval-Augmented Generation system designed for grounded domain-specific responses.
+
+**🔥 Features**
+
+- 📄 Document processing
+- ✂️ Smart text chunking
+- 🔎 Semantic retrieval
+- 🧬 Sentence-BERT embeddings
+- 🗃️ ChromaDB vector store
+- 🤖 LLaMA integration
+- ⚡ Context-aware responses
+
+**Stack**
+
+`Python` `LangChain` `ChromaDB`  
+`Sentence-BERT` `LLaMA` `Groq`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 📰 Online News Portal
+
+A dynamic web platform for publishing and managing news content.
+
+**Stack**
+
+`PHP` `MySQL` `HTML5` `CSS3`
+
+**Highlights**
+
+- 🔐 Admin dashboard
+- 🗄️ Database management
+- 📊 UML system design
+- ⚡ Optimized database structure
+- 🌐 Live deployment
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💼 Personal Portfolio
+
+A responsive developer portfolio created to showcase projects, skills, certifications, and development work.
+
+**Stack**
+
+`JavaScript` `HTML5` `CSS3` `Netlify`
+
+**Highlights**
+
+- 📱 Responsive UI
+- ✨ Modern design
+- 🚀 Fast deployment
+- 🌐 Global hosting
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 GitHub Activity & Statistics
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prasad-webdev&show_icons=true&hide_border=true&bg_color=050816&title_color=00F2FE&icon_color=7928CA&text_color=E2E8F0&cache_seconds=86400" alt="GitHub stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-webdev&layout=compact&card_width=495&hide_border=true&bg_color=050816&title_color=7928CA&text_color=E2E8F0&cache_seconds=86400" alt="Top languages"/>
+# 🏆 ACHIEVEMENTS
+
+<img src="https://img.shields.io/badge/HackerRank-5★%20Python%20Gold-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+<img src="https://img.shields.io/badge/B.Sc.%20Computer%20Science-8.34%20CGPA-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-Internship-FF6B35?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python%20for%20Data%20Science-Certified-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/NPTEL-DSA%20Certified-FF5722?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain%20%26%20AWS%20Bedrock-Workshop-232F3E?style=for-the-badge&logo=amazonaws"/>
 
 </div>
 
 ---
 
-### 🎨 Beyond Code
-
-Photography and cinematic video editing keep me curious and creative. Pacing, lighting, and color grading directly inform my software design discipline.
-
----
-
-### 📨 Let's Connect
-
-Open to software engineering internships, AI/RAG project collaborations, and full-stack engineering roles.
+# 📊 GITHUB PERFORMANCE
 
 <div align="center">
 
-<a href="https://github.com/prasad-webdev"><img src="https://img.shields.io/badge/GitHub-prasad--webdev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/prasad-bairagi-b20885368"><img src="https://img.shields.io/badge/LinkedIn-Prasad_Bairagi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:prasadbairagi131@gmail.com"><img src="https://img.shields.io/badge/Email-prasadbairagi131-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://prasadb-dev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-prasadb--dev.netlify.app-7928CA?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=prasad-webdev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-webdev&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=prasad-webdev&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</div>
+
+---
+
+# 📈 CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prasad-webdev&bg_color=0d1117&color=00d9ff&line=7c3aed&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+# 🧠 CURRENT INTERESTS
+
+<div align="center">
+
+| 🤖 AI | 💻 Development | ☁️ Technologies |
+|:---:|:---:|:---:|
+| Generative AI | React | Firebase |
+| LLMs | Node.js | PostgreSQL |
+| RAG | TypeScript | REST APIs |
+| AI Agents | Python | Cloud |
+| Prompt Engineering | Full-Stack | DevOps |
+
+</div>
+
+---
+
+# 🌱 MY DEVELOPMENT JOURNEY
+
+```text
+             💡 IDEA
+                │
+                ▼
+          🔍 RESEARCH
+                │
+                ▼
+          🧠 LEARNING
+                │
+                ▼
+          💻 BUILDING
+                │
+                ▼
+          🧪 TESTING
+                │
+                ▼
+          🚀 DEPLOYING
+                │
+                ▼
+          📈 IMPROVING
+                │
+                └──────────► 🔁
+```
+
+---
+
+<div align="center">
+
+# 📸 BEYOND CODE
+
+I believe creativity isn't limited to programming.
+
+**Photography • Editing • Travelling • Technology**
+
+<br>
+
+> ### `Code with logic. Create with imagination.`
+
+</div>
+
+---
+
+# 🤝 LET'S CONNECT
+
+<div align="center">
+
+<a href="https://github.com/prasad-webdev">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prasad-bairagi-b20885368">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:prasadbairagi131@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**If you like my work, consider giving my repositories a ⭐**
+
+<br>
+
+`© 2026 Prasad Bairagi`
 
 </div>
