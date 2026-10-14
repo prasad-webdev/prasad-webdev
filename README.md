@@ -24,7 +24,11 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=prasad-webdev&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prasad-webdev&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge" alt="Profile views counter"/>
+</p>
+
 
 </div>
 
