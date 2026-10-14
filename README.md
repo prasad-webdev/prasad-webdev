@@ -25,7 +25,11 @@
 <br/><br/>
 
 
-<img src="https://count.getloli.com/@prasad-webdev?name=prasad-webdev&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile views"/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prasad-webdev&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge" alt="Profile views counter"/>
+</p>
+>
 
 
 </div>
