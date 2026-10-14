@@ -26,10 +26,14 @@
 
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prasad-webdev&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge" alt="Profile views counter"/>
-</p>
->
+
+<div align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=prasad-webdev&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge"
+    alt="Profile views"
+  />
+</div>
+
 
 
 </div>
